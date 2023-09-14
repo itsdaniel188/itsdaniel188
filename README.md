@@ -6,4 +6,4 @@
 <h2> Certifications </h2>
 
 <h2>Social Media</h2>
-<LinkedIn src="https://www.linkedin.com/in/daniel-rodriguez-b88a7b222/" /> 
+<a href="https://www.linkedin.com/in/daniel-rodriguez-b88a7b222/">LinkedIn </a>
