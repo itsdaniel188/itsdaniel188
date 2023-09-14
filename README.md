@@ -2,4 +2,4 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 -<b> C++ Math Game (Replit)</b>
-<a href ="https://replit.com/@DanielRodrig350/03-Math-Quiz-with-Feedback-Branching#main.cpp" C++ Math Game</a>
+<a href="https://replit.com/@DanielRodrig350/03-Math-Quiz-with-Feedback-Branching#main.cpp" C++ Math Game</a>
