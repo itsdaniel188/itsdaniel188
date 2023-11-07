@@ -7,6 +7,7 @@
 
 <h2> Certifications </h2>
 <a href="ECC-CEH-Certificate.pdf">CEH Certification</a> 
+<a href="CompTIA Security+ ce certificate.pdf">Security+ Certification</a>
 
 <h2>Social Media</h2>
 <p><a href="https://www.linkedin.com/in/daniel-rodriguez-b88a7b222/" target="_blank">LinkedIn</a><p/>
