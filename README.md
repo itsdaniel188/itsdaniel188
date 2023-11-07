@@ -7,7 +7,7 @@
 
 <h2> Certifications </h2>
 <a href="ECC-CEH-Certificate.pdf">CEH Certification</a><br>
-<a href="CompTIA Security+ ce certificate.pdf">Security+ Certification</a><b>
+<a href="CompTIA Security+ ce certificate.pdf">Security+ Certification</a><br>
 <a href="SPLUNK SCORE REPORT.pdf">Splunk Core User Certification</a>
 
 <h2>Social Media</h2>
