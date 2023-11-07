@@ -6,7 +6,7 @@
 <a href="https://replit.com/@danieltheo00/Tip-Calculator">Python Tip Calculator
 
 <h2> Certifications </h2>
-<a href="ECC-CEH-Certificate.pdf">link text</a> 
+<a href="ECC-CEH-Certificate.pdf">CEH Certification</a> 
 
 <h2>Social Media</h2>
 <p><a href="https://www.linkedin.com/in/daniel-rodriguez-b88a7b222/" target="_blank">LinkedIn</a><p/>
