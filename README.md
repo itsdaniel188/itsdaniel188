@@ -5,6 +5,8 @@
 <a href="https://replit.com/@danieltheo00/battleshipgame#main.cpp">C++ battle Ship Game</a><br>
 <a href="https://replit.com/@danieltheo00/Tip-Calculator">Python Tip Calculator
 
+<h2>Cloud Projects</h2>
+
 <h2> Certifications </h2>
 <a href="ECC-CEH-Certificate.pdf">CEH Certification</a><br>
 <a href="CompTIA Security+ ce certificate.pdf">Security+ Certification</a><br>
