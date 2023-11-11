@@ -3,7 +3,8 @@
 <h2>👨‍💻 Software Development/Cyber Security Projects:</h2>
 <a href="https://replit.com/@danieltheo00/mathgame">C++ Math Game</a><br>
 <a href="https://replit.com/@danieltheo00/battleshipgame#main.cpp">C++ battle Ship Game</a><br>
-<a href="https://replit.com/@danieltheo00/Tip-Calculator">Python Tip Calculator
+<a href="https://replit.com/@danieltheo00/Tip-Calculator">Python Tip Calculator</a><br>
+<a href="https://github.com/itsdaniel188/test.py/blob/main/test.py">Python reminder notification
 
 <h2>Cloud Projects</h2>
 
