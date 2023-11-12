@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development/Cyber Security Projects:</h2>
 <a href="https://github.com/itsdaniel188/C-math-game/tree/main">C++ Math Game</a><br>
-<a href="https://replit.com/@danieltheo00/battleshipgame#main.cpp">C++ battle Ship Game</a><br>
+<a href="https://github.com/itsdaniel188/CPP-battleship/tree/main">C++ battle Ship Game</a><br>
 <a href="https://github.com/itsdaniel188/Tip-Calculator">Python Tip Calculator</a><br>
 <a href="https://github.com/itsdaniel188/test.py">Python reminder notification
 
